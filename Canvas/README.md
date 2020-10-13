@@ -2,7 +2,7 @@ CatT
 Canvas to Trello Integration
 Contributors:
 
-Team: Bruno Salgado, Michael Delcid, Jean-Carlo Delgado, (insert other names here)
+Team: Bruno Salgado, Michael Delcid, Jean-Carlo Delgado, Javier Diaz, (insert other names here)
 Roadmap:
 Refine requirements (1 week) 
 Familiarization with Canvas API (1 - 2 weeks)
@@ -26,4 +26,4 @@ Minimize the amount of user interaction with app, grade pulling should be automa
 Technologies 
 Python most likely for rapid iterations 
 Flutter if making a mobile/web application
-
+R if outputting the data in a nice graph
