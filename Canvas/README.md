@@ -1,7 +1,7 @@
 # CatT - Canvas to Trello Integration
-## Contributors:
+## Contributors: Alpha Alpha Chapter of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc. 
 
-Team: Bruno Salgado, Michael Delcid, Jean-Carlo Delgado, Javier Diaz, (insert other names here)
+### Team: Bruno Salgado, Michael Delcid, Jean-Carlo Delgado, Javier Diaz, (insert other names here)
 Roadmap:
 Refine requirements (1 week) 
 Familiarization with Canvas API (1 - 2 weeks)
