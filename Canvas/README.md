@@ -1,5 +1,5 @@
 # CatT - Canvas to Trello Integration
-##Contributors:
+## Contributors:
 
 Team: Bruno Salgado, Michael Delcid, Jean-Carlo Delgado, Javier Diaz, (insert other names here)
 Roadmap:
