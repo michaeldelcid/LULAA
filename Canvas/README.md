@@ -4,7 +4,7 @@
 ### Team: Bruno Salgado, Michael Delcid, Jean-Carlo Delgado, Javier Diaz, (insert other names here)
 
 
-###Roadmap:
+### Roadmap:
 1. Refine requirements (1 week) 
 2. Familiarization with Canvas API (1 - 2 weeks)
 3. Develop a working backend (1-2 weeks)
