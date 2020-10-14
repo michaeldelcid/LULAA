@@ -2,14 +2,16 @@
 ## Contributors: Alpha Alpha Chapter of La Unidad Latina, Lambda Upsilon Lambda Fraternity Inc. 
 
 ### Team: Bruno Salgado, Michael Delcid, Jean-Carlo Delgado, Javier Diaz, (insert other names here)
-Roadmap:
-Refine requirements (1 week) 
-Familiarization with Canvas API (1 - 2 weeks)
-Develop a working backend (1-2 weeks)
-Canvas has an option to output your Grades into a csv format
-If we develop a script to pull these files from each chapter member, it’ll be easier to parse the data from an excel sheet rather than learn the API
-Output grades onto Trello, or another application (2 - 3 weeks)
-Talk to jean about how he would like the the grades output
+
+
+###Roadmap:
+1. Refine requirements (1 week) 
+2. Familiarization with Canvas API (1 - 2 weeks)
+3. Develop a working backend (1-2 weeks)
+  i. Canvas has an option to output your Grades into a csv format
+  ii. If we develop a script to pull these files from each chapter member, it’ll be easier to parse the data from an excel sheet rather than learn the API
+4. Output grades onto Trello, or another application (2 - 3 weeks)
+  i. Talk to jean about how he would like the the grades output
 If on trello, how would he like the data organized
 Requirements
 App must be able to display current GPA and cumulative GPA
