@@ -29,3 +29,6 @@
 1. Python most likely for rapid iterations 
 2. Flutter if making a mobile/web application
 3. R if outputting the data in a nice graph
+
+### APIs
+1. [Canvas API](https://canvas.instructure.com/doc/api/)
